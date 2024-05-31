@@ -5,7 +5,7 @@ I'm Sree Varshni S .
 A passionate Cybersecurity enthusiast and a persistent worker.
 
 * ✉️  You can contact me at [varshni1802@gmail.com](mailto:varshni1802@gmail.com)
-* ⚡  Fun fact: When I'm not coding, I'm capturing candid moments with my camera. 📸✨
+* ⚡  Fun fact: When I'm not coding, I'm capturing moments with my camera. 📸✨
 
 ### Skills
 
