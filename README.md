@@ -1,7 +1,6 @@
-Heyy! ![Hello GIF](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
-I'm Sree Varshni S.
+# Heyy! ![Hello GIF](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) I'm Sree Varshni S.
 
-======================================================================================================================================
+============================================================================================
 
 * ✉️  You can contact me at [varshni1802@gmail.com](mailto:varshni1802@gmail.com)
 * 📚 Currently pursuing MSc Cybersecurity.
