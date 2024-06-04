@@ -1,10 +1,10 @@
-# Heyy! ![Hello GIF](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) I'm Sree Varshni S.
+# Heyy! ![Hello GIF](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
+## I'm Sree Varshni S.
 
-============================================================================================
-
-* ✉️  You can contact me at [varshni1802@gmail.com](mailto:varshni1802@gmail.com)
-* 📚 Currently pursuing MSc Cybersecurity.
 * 🌱 Interested in Machine Learning and Data Science.
+* 👨‍💻 All of my projects are available at https://github.com/SREEVARSHNI18
+* 📚 Currently pursuing MSc Cybersecurity.
+* ✉️  You can contact me at [varshni1802@gmail.com](mailto:varshni1802@gmail.com)
 
 ### Skills
 
